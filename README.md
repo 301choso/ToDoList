@@ -1,3 +1,3 @@
-# ToDoList
+# TodoList
 
- https://301choso.github.io/ToDoList/.
+ https://301choso.github.io/ToDoList/
